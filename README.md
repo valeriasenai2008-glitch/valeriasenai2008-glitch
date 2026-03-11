@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou VALÉRIA CAREGNATO
+# 👋 Olá, eu sou Valéria Caregnato
 
 🎓 Estudante da Aprendizagem Industrial PROGRAMADOR DE SISTEMAS DA INFORMAÇÃO
 🎓 Aprendizagem Industrial MECÂNICA INDUSTRIAL (2024)
