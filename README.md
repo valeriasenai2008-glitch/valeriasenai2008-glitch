@@ -35,7 +35,7 @@ Meu objetivo é adquirir conhecimento e desenvolver habilidades para atuar na á
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Nome do Projeto]  
+📌 Projeto Pyton – (https://colab.research.google.com/drive/13_0RTDroPuwy3a3CG-cHTQh_VrOq7vw5?usp=sharing) 
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 
